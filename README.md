@@ -41,8 +41,8 @@ First-year CS undergrad at University of Delhi exploring the intersection of **A
 
 | Project | Description |
 |---|---|
-| 🔐 [ML-KEM Side-Channel Attack](https://github.com/anshupriyan/My-CPA-code-analysis) | CPA attack on CRYSTALS-Kyber using simulated power traces — IIT Kanpur |
-| 🤖 [RL Fine-Tuning (AMD Hackathon)](https://github.com/anshupriyan/Q-and-A-agent-arena-GRPO-and-Fine-tuning) | Fine-tuned LLMs with RL on AMD MI300 GPU using Unsloth |
+| 🔐 [ML-KEM Side-Channel Attack](https://github.com/anshupriyan/My-CPA-code-analysis) | Correlation Power Analysis on CRYSTALS-Kyber (ML-KEM) with multi-window stability ranking — IIT Kanpur |
+| 🤖 [RL Fine-Tuning (AMD Hackathon)](https://github.com/anshupriyan/Q-and-A-agent-arena-GRPO-and-Fine-tuning) | Adversarial LLM arena — GRPO + SFT to train a "nasty" examiner that breaks standard reasoning |
 | 🧠 [Brain Sync](https://github.com/anshupriyan/BrainSync) | Sync & cross-link ChatGPT/Claude exports into Obsidian using a local LLM — no cloud, no API keys |
 ---
 
