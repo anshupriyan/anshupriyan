@@ -46,19 +46,6 @@ First-year CS undergrad at University of Delhi exploring the intersection of **A
 
 ---
 
-### 📊 GitHub Stats
- 
-<div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=M3TAM0RPH0SIS&style=for-the-badge&color=0e75b6)
-![Followers](https://img.shields.io/github/followers/M3TAM0RPH0SIS?style=for-the-badge&color=0e75b6&labelColor=1a1b27)
- 
-> 🚀 Just getting started — repos dropping soon. Watch this space.
- 
-</div>
-
-
----
-
 ### 🧠 Currently Exploring
 
 - AI Safety & empirical ML research
