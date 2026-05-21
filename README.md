@@ -47,14 +47,15 @@ First-year CS undergrad at University of Delhi exploring the intersection of **A
 ---
 
 ### 📊 GitHub Stats
-
+ 
 <div align="center">
-
-![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M3TAM0RPH0SIS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M3TAM0RPH0SIS&layout=compact&theme=tokyonight&hide_border=true)
-
+![Profile Views](https://komarev.com/ghpvc/?username=M3TAM0RPH0SIS&style=for-the-badge&color=0e75b6)
+![Followers](https://img.shields.io/github/followers/M3TAM0RPH0SIS?style=for-the-badge&color=0e75b6&labelColor=1a1b27)
+ 
+> 🚀 Just getting started — repos dropping soon. Watch this space.
+ 
 </div>
+
 
 ---
 
