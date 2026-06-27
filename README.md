@@ -8,13 +8,21 @@
 
 Building AI systems, developer tools, and security research.
 
+## GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anshupriyan&show_icons=true&hide_border=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshupriyan&layout=compact&hide_border=true&theme=github_dark"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=anshupriyan&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+<div align="center">
 <br>
-
-<a href="https://github.com/anshupriyan">
-    <img src="https://img.shields.io/badge/View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Learning+by+Building;AI+%7C+Systems+%7C+Security;Building+Developer+Tools;Open+Source+Enthusiast" />
 
@@ -74,20 +82,7 @@ I enjoy learning by building—from AI infrastructure and local LLM workflows to
 
 ---
 
-## GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anshupriyan&show_icons=true&hide_border=true&theme=github_dark"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshupriyan&layout=compact&hide_border=true&theme=github_dark"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=anshupriyan&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-<div align="center">
 
 ### Building in Public • Open Source • Research • Always Learning
 
