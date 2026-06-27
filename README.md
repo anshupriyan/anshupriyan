@@ -10,7 +10,7 @@ Building AI systems, developer tools, and security research.
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Learning+by+Building;AI+%7C+Systems+%7C+Security;Building+Developer+Tools;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Learning+by+Building;AI+%7C+Systems+%7C+Security;Building+Developer+Tools;Open+Source+Enthusiast"/>
 
 </div>
 
@@ -27,12 +27,17 @@ I enjoy learning by building—from local LLM infrastructure and AI automation t
 ## GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anshupriyan&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&theme=github_dark"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshupriyan&layout=compact&hide_border=true&theme=github_dark&langs_count=8&hide=perl,kotlin,c%23"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anshupriyan&show_icons=true&hide_rank=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7&border_color=581C87"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshupriyan&layout=compact&langs_count=8&hide=perl,kotlin,c%23&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF&border_color=581C87"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshupriyan&theme=github-dark&hide_border=true&area=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshupriyan&bg_color=0D1117&color=C084FC&line=A855F7&point=E9D5FF&area=true&area_color=A855F7&hide_border=true"/>
+
 </p>
 
 ---
@@ -52,13 +57,13 @@ I enjoy learning by building—from local LLM infrastructure and AI automation t
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,bash" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,bash&theme=dark" />
 </p>
 
 ### AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
 </p>
 
 **Frameworks & Libraries**
@@ -68,7 +73,7 @@ I enjoy learning by building—from local LLM infrastructure and AI automation t
 ### Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,blender" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,blender&theme=dark" />
 </p>
 
 ---
