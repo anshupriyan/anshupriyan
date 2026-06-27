@@ -1,59 +1,96 @@
 <div align="center">
 
 # Priyanshu Raj
-### B.Sc. Computer Science · University of Delhi
-**AI · Security · Systems**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-raj-8a1690380)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshupriyan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshupriyanofficial@gmail.com)
+### AI • Systems • Security • Open Source
+
+**Second-Year B.Sc. Computer Science Student @ University of Delhi**
+
+Building AI systems, developer tools, and security research.
+
+<br>
+
+<a href="https://github.com/anshupriyan">
+    <img src="https://img.shields.io/badge/View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Learning+by+Building;AI+%7C+Systems+%7C+Security;Building+Developer+Tools;Open+Source+Enthusiast" />
 
 </div>
 
 ---
 
-### 👾 About Me
+## About
 
-First-year CS undergrad at University of Delhi exploring the intersection of **AI safety**, **post-quantum cryptography**, and **systems security** — and somehow doing grad-level stuff in semester one.
+I'm a second-year Computer Science student passionate about Artificial Intelligence, Systems Programming, Hardware Security, and Developer Tools.
 
-- 🥉 **3rd Place @ IIT Kanpur** — Hardware Security Innovation Challenge (competing against M.Tech & PhD students)
-- 🤖 Built & fine-tuned RL agents on AMD MI300 GPUs at the AMD AI RL Hackathon
-- 🔐 Implemented a **Correlation Power Analysis attack** on CRYSTALS-Kyber (ML-KEM)
-- 🌐 Currently building in public — Chrome extensions, AI tools, and more
-- 📍 Delhi, India
+I enjoy learning by building—from AI infrastructure and local LLM workflows to reinforcement learning, cybersecurity, and post-quantum cryptography.
 
 ---
 
-### 🛠️ Stack & Tools
+## Highlights
 
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-
-**Areas:** Reinforcement Learning · Post-Quantum Cryptography · Hardware Security · Chrome Extension Dev · Systems Programming
+* **3rd Place** — ISEA Hardware Security Innovation Challenge, **IIT Kanpur**
+* **Participant** — AMD × Unsloth Reinforcement Learning Hackathon, **IIT Delhi**
+* Built **VaultMind**, an MCP-powered AI memory system for Claude + Obsidian
+* Implemented a **Correlation Power Analysis** attack on **CRYSTALS-Kyber (ML-KEM)**
 
 ---
 
-### 📌 Featured Projects
+## Tech Stack
 
-| Project | Description |
-|---|---|
-| 🔐 [ML-KEM Side-Channel Attack](https://github.com/anshupriyan/My-CPA-code-analysis) | Correlation Power Analysis on CRYSTALS-Kyber (ML-KEM) with multi-window stability ranking — IIT Kanpur |
-| 🤖 [RL Fine-Tuning (AMD Hackathon)](https://github.com/anshupriyan/AI-Examiner-Reinforcemnt_learning-fine_tunning) | Adversarial LLM arena — GRPO + SFT to train a "nasty" examiner that breaks standard reasoning |
-| 🧠 [Brain Sync](https://github.com/anshupriyan/BrainSync) | Sync & cross-link ChatGPT/Claude exports into Obsidian using a local LLM — no cloud, no API keys |
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,bash" />
+</p>
+
+### AI • Security • Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,mysql,sqlite,blender" />
+</p>
+
+**AI & ML**
+
+`PyTorch` • `Transformers` • `TRL` • `GRPO` • `SFT` • `Hugging Face` • `Unsloth` • `Ollama` • `MCP`
+
+**Security**
+
+`Hardware Security` • `Side-Channel Analysis` • `Post-Quantum Cryptography` • `ML-KEM (Kyber)`
+
 ---
 
-### 🧠 Currently Exploring
+## Current Focus
 
-- AI Safety & empirical ML research
-- Side-channel attacks on post-quantum schemes
-- Building tools that scratch my own itch
+* AI Infrastructure
+* Local LLMs
+* Reinforcement Learning
+* Developer Tools
+* Systems Programming
+* AI Safety
+
+---
+
+## GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anshupriyan&show_icons=true&hide_border=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshupriyan&layout=compact&hide_border=true&theme=github_dark"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=anshupriyan&theme=github-dark&hide_border=true"/>
+</p>
 
 ---
 
 <div align="center">
-<sub>Building in public · Open to research collaborations · Always learning</sub>
+
+### Building in Public • Open Source • Research • Always Learning
+
+*"Code is temporary. The ability to learn is permanent."*
+
 </div>
