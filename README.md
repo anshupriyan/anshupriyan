@@ -57,7 +57,7 @@ I enjoy learning by building—from AI infrastructure and local LLM workflows to
 ### Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,mysql,sqlite,blender" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,blender" />
 </p>
 
 **AI & ML**
